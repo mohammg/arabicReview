@@ -7,4 +7,4 @@ prettytable==2.4.0
 requests==2.26.0
 scikit_learn==1.0.1
 xgboost==1.4.2
-matplotlib==2.2.3
+~atplotlib==2.2.3
